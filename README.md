@@ -1,2 +1,2 @@
-# odin-recipes
-Assignment for The Odin Project lesson
+# Recipes-Website
+Assignment for The Odin Project lesson 
